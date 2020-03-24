@@ -1,0 +1,13 @@
+D:\Estudos\Faculdade\Cezar\BancoUnip\bin\Debug\BancoUnip.exe.config
+D:\Estudos\Faculdade\Cezar\BancoUnip\bin\Debug\BancoUnip.exe
+D:\Estudos\Faculdade\Cezar\BancoUnip\bin\Debug\BancoUnip.pdb
+D:\Estudos\Faculdade\Cezar\BancoUnip\obj\Debug\BancoUnip.csprojAssemblyReference.cache
+D:\Estudos\Faculdade\Cezar\BancoUnip\obj\Debug\BancoUnip.exe
+D:\Estudos\Faculdade\Cezar\BancoUnip\obj\Debug\BancoUnip.pdb
+D:\Estudos\Faculdade\Faculdade01\BancoUnip\bin\Debug\BancoUnip.exe.config
+D:\Estudos\Faculdade\Faculdade01\BancoUnip\bin\Debug\BancoUnip.exe
+D:\Estudos\Faculdade\Faculdade01\BancoUnip\bin\Debug\BancoUnip.pdb
+D:\Estudos\Faculdade\Faculdade01\BancoUnip\obj\Debug\BancoUnip.csprojAssemblyReference.cache
+D:\Estudos\Faculdade\Faculdade01\BancoUnip\obj\Debug\BancoUnip.csproj.CoreCompileInputs.cache
+D:\Estudos\Faculdade\Faculdade01\BancoUnip\obj\Debug\BancoUnip.exe
+D:\Estudos\Faculdade\Faculdade01\BancoUnip\obj\Debug\BancoUnip.pdb
